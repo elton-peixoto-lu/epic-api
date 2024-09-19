@@ -1,5 +1,8 @@
 # Scrapy epic status API (Unofficial)
 
+![Status: Experimental](https://img.shields.io/badge/Status-Experimental-orange.svg)
+[![Development Status](https://img.shields.io/badge/Development-In%20Progress-blue.svg)](https://shields.io/)
+
 **Born from a parent's frustration**
 
 When my kid couldn't log in to Epic Games and was getting upset, I wanted to quickly check the server status. Epic has a status page, but no readily available API. So, in a moment of parental ingenuity, I whipped up this simple scraper. Now it provides a basic endpoint you can use to build your own bot or notification system!
