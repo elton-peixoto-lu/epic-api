@@ -23,7 +23,7 @@ When my kid couldn't log in to Epic Games and was getting upset, I wanted to qui
 
 ## Setup
 
-1. **Clone the repository:** `git clone [repository URL]`
+1. **Clone the repository:** `git clone git@github.com:elton-peixoto-lu/epic-api.git`
 2. **Install dependencies:** `pip install -r requirements.txt` (You'll need Flask, requests, and BeautifulSoup4)
 3. **Run the script:** `python your_script_name.py`
 
