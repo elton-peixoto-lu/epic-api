@@ -1,4 +1,4 @@
-# Epic Games Status Checker (Unofficial)
+# Scrapy epic status API (Unofficial)
 
 **Born from a parent's frustration**
 
